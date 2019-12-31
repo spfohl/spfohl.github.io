@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Stephen Pfohl"
-  avatar           : "hawaii_cactus.jpg"
+  avatar           : "profile.png"
   bio              : "PhD in Biomedical Informatics at Stanford. Working on fair machine learning in healthcare."
   location         : "San Francisco, CA"
   employer         :
