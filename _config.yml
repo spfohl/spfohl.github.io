@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Stephen Pfohl"
   avatar           : "profile.png"
-  bio              : "PhD in Biomedical Informatics at Stanford. Working on fair machine learning in healthcare."
+  bio              : "PhD in Biomedical Informatics at Stanford"
   location         : "San Francisco, CA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

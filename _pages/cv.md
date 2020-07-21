@@ -9,16 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-This page is under construction
-======
+<!-- This page is under construction -->
+<!-- ====== -->
 
 Education
 ======
-* B.S. Biomedical Engineering, Georgia Institute of Technology, 2016
-* Ph.D Biomedical Informatics, Stanford University, 2021 (Anticipated)
+* PhD Biomedical Informatics, Stanford University, 2021 (Anticipated)
+* BS Biomedical Engineering, Georgia Institute of Technology, 2016
+
+Work Experience
+=======
 
 Academic Research
-======
+=====
 * Graduate Research Assistant, Spring 2017 - Present
   * Stanford Center for Biomedical Informatics Research
   * Advisor: Nigam Shah
@@ -27,8 +30,8 @@ Academic Research
   * Georgia Institute of Technology
   * Advisor: Cassie Mitchell
 
-Industry Experience
-======
+Industry
+=====
 * Research Intern, Summer 2019
   * Google Health
   * Supervisor: Katherine Heller
