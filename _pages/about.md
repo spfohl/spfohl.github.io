@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am PhD student in Biomedical Informatics at Stanford, advised by <a href="https://shahlab.stanford.edu/">Nigam Shah</a>. My work broadly focuses on the use of machine learning to guide clinical decision making. Recently, I have focused on understanding how to design such systems to be fair and robust. Before coming to Stanford, I worked with <a href="https://pwp.gatech.edu/cassie-mitchell-lab/">Cassie Mitchell</a> at Georgia Tech on developing models of disease progression in Amyotrophic Lateral Sclerosis.
+I am PhD student in Biomedical Informatics at Stanford, advised by <a href="https://shahlab.stanford.edu/">Nigam Shah</a>. My work broadly focuses on the use of machine learning to guide clinical decision making. Recently, I have focused on understanding how to design such systems to be fair and robust. Before coming to Stanford, I worked with <a href="https://pwp.gatech.edu/cassie-mitchell-lab/">Cassie Mitchell</a> at Georgia Tech on developing models of disease progression in Amyotrophic Lateral Sclerosis. In 2019, I was a research intern at Google Health, working on <a href="https://arxiv.org/abs/1911.05861">privacy-preserving clinical machine learning</a>.
 
 Select Publications
 ===
@@ -34,7 +34,7 @@ Select Publications
 <br>
 <i>Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society, 2019</i>
 <br>
-\[<a href="https://arxiv.org/abs/1809.04663">arxiv post-print with erratum</a>\] \[<a href="https://dl.acm.org/doi/abs/10.1145/3306618.3314278">paper</a>\]
+\[<a href="https://arxiv.org/abs/1809.04663">arxiv post-print with erratum</a>\] \[<a href="https://arxiv.org/pdf/1809.04663.pdf">pdf</a>\] \[<a href="https://dl.acm.org/doi/abs/10.1145/3306618.3314278">paper</a>\]
 
 <a href="https://www.frontiersin.org/articles/10.3389/fninf.2018.00036/full">Unraveling the Complexity of Amyotrophic Lateral Sclerosis Survival Prediction</a>
 <br>
