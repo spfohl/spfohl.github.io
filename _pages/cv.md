@@ -2,7 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
@@ -12,7 +12,7 @@ redirect_from:
 <!-- This page is under construction -->
 <!-- ====== -->
 
-Education
+<!-- Education
 ======
 * PhD Biomedical Informatics, Stanford University, 2021 (Anticipated)
 * BS Biomedical Engineering, Georgia Institute of Technology, 2016
@@ -37,7 +37,7 @@ Industry
   * Supervisor: Katherine Heller
 
 * Data Science Intern, Summer 2015
-  * DecisionQ
+  * DecisionQ -->
 
 <!-- Publications
 ======
