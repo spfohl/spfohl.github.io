@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am PhD student in Biomedical Informatics at Stanford, advised by <a href="https://shahlab.stanford.edu/">Nigam Shah</a>. My work broadly focuses on the use of machine learning to guide clinical decision making. Recently, I have focused on understanding how to design such systems to be fair and robust. Before coming to Stanford, I worked with <a href="https://pwp.gatech.edu/cassie-mitchell-lab/">Cassie Mitchell</a> at Georgia Tech on developing models of disease progression in Amyotrophic Lateral Sclerosis. In 2019, I was a research intern at Google Health, working on <a href="https://arxiv.org/abs/1911.05861">privacy-preserving clinical machine learning</a>.
+I am PhD student in Biomedical Informatics at Stanford, advised by <a href="https://shahlab.stanford.edu/">Nigam Shah</a>. My work broadly focuses on the use of machine learning to guide clinical decision making. Recently, I have focused on understanding how to design such systems to be fair and robust. Before coming to Stanford, I worked with <a href="https://pwp.gatech.edu/cassie-mitchell-lab/">Cassie Mitchell</a> at Georgia Tech on developing models of disease progression in Amyotrophic Lateral Sclerosis. In the summer of 2019, I was a research intern at Google Health.
 
 Select Publications
 ===
