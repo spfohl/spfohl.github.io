@@ -18,7 +18,7 @@ Select Publications
 <br>
 <i>Journal of Biomedical Informatics, 10.1016/j.jbi.2020.103621, 2020</i>
 <br>
-\[<a href="https://authors.elsevier.com/a/1c8EB5SMDQgLgV">paper</a>\] \[<a href="https://arxiv.org/abs/2007.10306">pre-print</a>\] \[<a href="https://arxiv.org/pdf/2007.10306v1.pdf">pdf</a>\] \[<a href="https://github.com/som-shahlab/fairness_benchmark">code</a>\]
+\[<a href="https://authors.elsevier.com/a/1c8EB5SMDQgLgV">paper</a>\] \[<a href="https://arxiv.org/abs/2007.10306">pre-print</a>\] \[<a href="https://github.com/som-shahlab/fairness_benchmark">code</a>\]
 
 <a href="http://proceedings.mlr.press/v106/pfohl19a.html">Counterfactual Reasoning for Fair Clinical Risk Prediction</a>
 <br>
