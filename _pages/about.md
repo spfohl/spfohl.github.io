@@ -16,9 +16,9 @@ Select Publications
 <br>
 <b>Stephen R. Pfohl</b>, Agata Foryciarz, Nigam H. Shah.
 <br>
-<i>arXiv preprint 2007.10306, 2020</i>
+<i>Journal of Biomedical Informatics, 10.1016/j.jbi.2020.103621, 2020</i>
 <br>
-\[<a href="https://arxiv.org/abs/2007.10306v1">abstract</a>\] \[<a href="https://arxiv.org/pdf/2007.10306v1.pdf">pdf</a>\] \[<a href="https://github.com/som-shahlab/fairness_benchmark">code</a>\]
+\[<a href="https://authors.elsevier.com/a/1c8EB5SMDQgLgV">paper</a>\] \[<a href="https://arxiv.org/abs/2007.10306">pre-print</a>\] \[<a href="https://arxiv.org/pdf/2007.10306v1.pdf">pdf</a>\] \[<a href="https://github.com/som-shahlab/fairness_benchmark">code</a>\]
 
 <a href="http://proceedings.mlr.press/v106/pfohl19a.html">Counterfactual Reasoning for Fair Clinical Risk Prediction</a>
 <br>
@@ -48,7 +48,7 @@ Select Publications
 <br>
 <b>Stephen R. Pfohl</b>, Martin T. Halicek, Cassie S. Mitchell.
 <br>
-<i>Journal of Neuromuscular Diseases,  2(2):137–150, 2018</i>
+<i>Journal of Neuromuscular Diseases,  2(2):137–150, 2015</i>
 <br>
 \[<a href="https://content.iospress.com/articles/journal-of-neuromuscular-diseases/jnd140068">paper</a>\]
 
