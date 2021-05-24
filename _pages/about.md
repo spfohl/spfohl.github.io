@@ -12,13 +12,13 @@ I am PhD student in Biomedical Informatics at Stanford, advised by <a href="http
 
 Select Publications
 ===
-<a href="https://arxiv.org/abs/2007.10306v1">An Empirical Characterization of Fair Machine Learning For Clinical Risk Prediction</a>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1532046420302495">An Empirical Characterization of Fair Machine Learning For Clinical Risk Prediction</a>
 <br>
 <b>Stephen R. Pfohl</b>, Agata Foryciarz, Nigam H. Shah.
 <br>
-<i>Journal of Biomedical Informatics, 10.1016/j.jbi.2020.103621, 2020</i>
+<i>Journal of Biomedical Informatics, 113:103621, 2021</i>
 <br>
-\[<a href="https://authors.elsevier.com/a/1c8EB5SMDQgLgV">paper</a>\] \[<a href="https://arxiv.org/abs/2007.10306">pre-print</a>\] \[<a href="https://github.com/som-shahlab/fairness_benchmark">code</a>\]
+\[<a href="https://www.sciencedirect.com/science/article/abs/pii/S1532046420302495">paper</a>\] \[<a href="https://arxiv.org/abs/2007.10306">pre-print</a>\] \[<a href="https://github.com/som-shahlab/fairness_benchmark">code</a>\]
 
 <a href="http://proceedings.mlr.press/v106/pfohl19a.html">Counterfactual Reasoning for Fair Clinical Risk Prediction</a>
 <br>
