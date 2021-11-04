@@ -12,13 +12,20 @@ I am a PhD student in Biomedical Informatics at Stanford, advised by <a href="ht
 
 Select Publications
 ===
+<a href="https://arxiv.org/abs/2108.12250">A comparison of approaches to improve worst-case predictive model performance over patient subpopulations</a>
+<br>
+<b>Stephen R. Pfohl</b>, Haoran Zhang, Yizhe Xu, Agata Foryciarz, Marzyeh Ghassemi, Nigam H. Shah.
+<br>
+\[<a href="https://arxiv.org/abs/2108.12250">preprint</a>\] \[<a href="https://github.com/som-shahlab/subpopulation_robustness">code</a>\]
+
+
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1532046420302495">An Empirical Characterization of Fair Machine Learning For Clinical Risk Prediction</a>
 <br>
 <b>Stephen R. Pfohl</b>, Agata Foryciarz, Nigam H. Shah.
 <br>
 <i>Journal of Biomedical Informatics, 113:103621, 2021</i>
 <br>
-\[<a href="https://www.sciencedirect.com/science/article/abs/pii/S1532046420302495">paper</a>\] \[<a href="https://arxiv.org/abs/2007.10306">pre-print</a>\] \[<a href="https://github.com/som-shahlab/fairness_benchmark">code</a>\]
+\[<a href="https://www.sciencedirect.com/science/article/abs/pii/S1532046420302495">paper</a>\] \[<a href="https://arxiv.org/abs/2007.10306">preprint</a>\] \[<a href="https://github.com/som-shahlab/fairness_benchmark">code</a>\]
 
 <a href="http://proceedings.mlr.press/v106/pfohl19a.html">Counterfactual Reasoning for Fair Clinical Risk Prediction</a>
 <br>
