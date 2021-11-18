@@ -18,6 +18,7 @@ Select Publications
 Agata Foryciarz, <b>Stephen R. Pfohl</b>, Birju Patel, Nigam H. Shah
 <br>
 <i>medRxiv 2021.11.08.21266076; doi: https://doi.org/10.1101/2021.11.08.21266076</i>
+<br>
 \[<a href="https://www.medrxiv.org/content/10.1101/2021.11.08.21266076v2">preprint</a>\]
 
 <a href="https://arxiv.org/abs/2108.12250">A comparison of approaches to improve worst-case predictive model performance over patient subpopulations</a>
