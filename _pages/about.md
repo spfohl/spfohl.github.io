@@ -25,6 +25,8 @@ Agata Foryciarz, <b>Stephen R. Pfohl</b>, Birju Patel, Nigam H. Shah
 <br>
 <b>Stephen R. Pfohl</b>, Haoran Zhang, Yizhe Xu, Agata Foryciarz, Marzyeh Ghassemi, Nigam H. Shah.
 <br>
+<i>arXiv preprint arXiv:2108.12250, 2021</i>
+<br>
 \[<a href="https://arxiv.org/abs/2108.12250">preprint</a>\] \[<a href="https://github.com/som-shahlab/subpopulation_robustness">code</a>\]
 
 
