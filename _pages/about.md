@@ -12,6 +12,14 @@ I am a PhD student in Biomedical Informatics at Stanford, advised by <a href="ht
 
 Select Publications
 ===
+
+<a href="https://arxiv.org/abs/2108.12250">Evaluating algorithmic fairness in the presence of clinical guidelines: the case of atherosclerotic cardiovascular disease risk estimation</a>
+<br>
+Agata Foryciarz, <b>Stephen R. Pfohl</b>, Birju Patel, Nigam H. Shah
+<br>
+<i>medRxiv 2021.11.08.21266076; doi: https://doi.org/10.1101/2021.11.08.21266076</i>
+\[<a href="https://www.medrxiv.org/content/10.1101/2021.11.08.21266076v2">preprint</a>\]
+
 <a href="https://arxiv.org/abs/2108.12250">A comparison of approaches to improve worst-case predictive model performance over patient subpopulations</a>
 <br>
 <b>Stephen R. Pfohl</b>, Haoran Zhang, Yizhe Xu, Agata Foryciarz, Marzyeh Ghassemi, Nigam H. Shah.
