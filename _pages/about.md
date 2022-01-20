@@ -8,13 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-
-I am recent graduate of the Biomedical Informatics PhD program at Stanford University. At Stanford, my work focused on understanding fairness, robustness, and transparent evaluation of systems that use machine learning to inform clinical decision making. In January 2022, I will start as a research scientist at Google Research.
+I am a research scientist at Google Research and a recent graduate of the Biomedical Informatics PhD program at Stanford University. At Stanford, my work focused on understanding fairness, robustness, and transparent evaluation of systems that use machine learning to inform clinical decision making.
 
 Select Publications
 ===
 
-<a href="https://arxiv.org/abs/2108.12250">Evaluating algorithmic fairness in the presence of clinical guidelines: the case of atherosclerotic cardiovascular disease risk estimation</a>
+<a href="https://searchworks.stanford.edu/view/14051829">Recommendations for algorithmic fairness assessments of predictive models in healthcare: evidence from large-scale empirical analyses</a>
+<br>
+<b>Stephen R. Pfohl</b>
+<br>
+\[<a href="https://searchworks.stanford.edu/view/14051829">dissertation</a>\] \[<a href="https://spfohl.github.io/files/defense_slides_20211211.pdf">slides</a>\]
+
+
+<a href="https://www.medrxiv.org/content/10.1101/2021.11.08.21266076v2">Evaluating algorithmic fairness in the presence of clinical guidelines: the case of atherosclerotic cardiovascular disease risk estimation</a>
 <br>
 Agata Foryciarz, <b>Stephen R. Pfohl</b>, Birju Patel, Nigam H. Shah
 <br>
