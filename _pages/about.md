@@ -17,7 +17,7 @@ Select Publications
 <br>
 <b>Stephen R. Pfohl</b>
 <br>
-\[<a href="https://searchworks.stanford.edu/view/14051829">dissertation</a>\] \[<a href="https://spfohl.github.io/files/defense_slides_20211211.pdf">slides</a>\]
+\[<a href="https://searchworks.stanford.edu/view/14051829">dissertation</a>\] \[<a href="https://spfohl.github.io/files/defense_slides_20211112.pdf">slides</a>\]
 
 
 <a href="https://www.medrxiv.org/content/10.1101/2021.11.08.21266076v2">Evaluating algorithmic fairness in the presence of clinical guidelines: the case of atherosclerotic cardiovascular disease risk estimation</a>
