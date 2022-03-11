@@ -8,17 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist at Google Research and a recent graduate of the Biomedical Informatics PhD program at Stanford University. At Stanford, my work focused on understanding fairness, robustness, and transparent evaluation of systems that use machine learning to inform clinical decision making.
+I am a research scientist at Google Research and a recent graduate of the Biomedical Informatics PhD program at Stanford University. My work focuses on understanding fairness, robustness, and transparent evaluation of systems that use machine learning to inform clinical decision making.
 
 Select Publications
 ===
+
+<a href="https://arxiv.org/abs/2202.01906">Net benefit, calibration, threshold selection, and training objectives for algorithmic fairness in healthcare</a>
+<br>
+<b>Stephen R. Pfohl</b>, Yizhe Xu, Agata Foryciarz, Nikolaos Ignatiadis, Julian Genkins, Nigam H. Shah
+<br>
+<i>arXiv:2202.01906; doi: https://doi.org/10.48550/arXiv.2202.01906</i>
+<br>
+\[<a href="https://arxiv.org/abs/2202.01906">preprint</a>\]
+
 
 <a href="https://searchworks.stanford.edu/view/14051829">Recommendations for algorithmic fairness assessments of predictive models in healthcare: evidence from large-scale empirical analyses</a>
 <br>
 <b>Stephen R. Pfohl</b>
 <br>
-\[<a href="https://searchworks.stanford.edu/view/14051829">dissertation</a>\] \[<a href="https://spfohl.github.io/files/defense_slides_20211112.pdf">slides</a>\]
-
+\[<a href="https://searchworks.stanford.edu/view/14051829">dissertation</a>\] \[<a href="https://spfohl.github.io/files/pfohl-dissertation.pdf">pdf</a>\] \[<a href="https://spfohl.github.io/files/defense_slides_20211112.pdf">slides</a>\] [![CC BY 4.0][cc-by-image]][cc-by]
 
 <a href="https://www.medrxiv.org/content/10.1101/2021.11.08.21266076v2">Evaluating algorithmic fairness in the presence of clinical guidelines: the case of atherosclerotic cardiovascular disease risk estimation</a>
 <br>
@@ -28,13 +36,13 @@ Agata Foryciarz, <b>Stephen R. Pfohl</b>, Birju Patel, Nigam H. Shah
 <br>
 \[<a href="https://www.medrxiv.org/content/10.1101/2021.11.08.21266076v2">preprint</a>\]
 
-<a href="https://arxiv.org/abs/2108.12250">A comparison of approaches to improve worst-case predictive model performance over patient subpopulations</a>
+<a href="https://www.nature.com/articles/s41598-022-07167-7">A comparison of approaches to improve worst-case predictive model performance over patient subpopulations</a>
 <br>
 <b>Stephen R. Pfohl</b>, Haoran Zhang, Yizhe Xu, Agata Foryciarz, Marzyeh Ghassemi, Nigam H. Shah.
 <br>
-<i>arXiv preprint arXiv:2108.12250, 2021</i>
+<i>Scientific Reports 12 (1), 1-13, 2022</i>
 <br>
-\[<a href="https://arxiv.org/abs/2108.12250">preprint</a>\] \[<a href="https://github.com/som-shahlab/subpopulation_robustness">code</a>\]
+\[<a href="https://www.nature.com/articles/s41598-022-07167-7">paper</a>\] \[<a href="https://arxiv.org/abs/2108.12250">preprint</a>\] \[<a href="https://github.com/som-shahlab/subpopulation_robustness">code</a>\]
 
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1532046420302495">An Empirical Characterization of Fair Machine Learning For Clinical Risk Prediction</a>
@@ -61,7 +69,7 @@ Agata Foryciarz, <b>Stephen R. Pfohl</b>, Birju Patel, Nigam H. Shah
 <br>
 \[<a href="https://arxiv.org/abs/1809.04663">arxiv post-print with erratum</a>\] \[<a href="https://arxiv.org/pdf/1809.04663.pdf">pdf</a>\] \[<a href="https://dl.acm.org/doi/abs/10.1145/3306618.3314278">paper</a>\]
 
-<a href="https://www.frontiersin.org/articles/10.3389/fninf.2018.00036/full">Unraveling the Complexity of Amyotrophic Lateral Sclerosis Survival Prediction</a>
+<!-- <a href="https://www.frontiersin.org/articles/10.3389/fninf.2018.00036/full">Unraveling the Complexity of Amyotrophic Lateral Sclerosis Survival Prediction</a>
 <br>
 <b>Stephen R. Pfohl</b>, Renaid B. Kim, Grant S. Coan, Cassie S. Mitchell.
 <br>
@@ -75,12 +83,12 @@ Agata Foryciarz, <b>Stephen R. Pfohl</b>, Birju Patel, Nigam H. Shah
 <br>
 <i>Journal of Neuromuscular Diseases,  2(2):137–150, 2015</i>
 <br>
-\[<a href="https://content.iospress.com/articles/journal-of-neuromuscular-diseases/jnd140068">paper</a>\]
+\[<a href="https://content.iospress.com/articles/journal-of-neuromuscular-diseases/jnd140068">paper</a>\] -->
 
 
-[![CC BY 4.0][cc-by-image]][cc-by]
+<!-- [![CC BY 4.0][cc-by-image]][cc-by]
 Works not licensed under a more restrictive license are licensed under
-[Creative Commons Attribution 4.0 International License][cc-by].
+[Creative Commons Attribution 4.0 International License][cc-by]. -->
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
