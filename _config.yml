@@ -83,11 +83,11 @@ author:
   name             : "Stephen Pfohl"
   avatar           : "yosemite_head.jpg"
   bio              : "Research Scientist at Google. Stanford Biomedical Informatics PhD"
-  location         : "New York City, NY"
+  location         : "San Francisco, CA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Q0YPo5IAAAAJ&hl=en"
-  email            : "spfohl@alumni.stanford.edu"
+  email            : "spfohl@google.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

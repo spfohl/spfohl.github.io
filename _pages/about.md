@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist at Google Research and a recent graduate of the Biomedical Informatics PhD program at Stanford University. My work focuses on understanding fairness, robustness, and transparent evaluation of systems that use machine learning to inform clinical decision making.
+I am a research scientist at Google and a recent graduate of the Biomedical Informatics PhD program at Stanford University. My work focuses on understanding fairness, robustness, and transparent evaluation of systems that use machine learning to inform clinical decision making.
 
 Select Publications
 ===
