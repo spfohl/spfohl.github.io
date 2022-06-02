@@ -17,7 +17,7 @@ Select Publications
 <br>
 <b>Stephen R. Pfohl</b>, Yizhe Xu, Agata Foryciarz, Nikolaos Ignatiadis, Julian Genkins, Nigam H. Shah
 <br>
-<i>arXiv:2202.01906; doi: https://doi.org/10.48550/arXiv.2202.01906</i>
+<i>ACM Conference on Fairness Accountability and Transparency (FAccT) 2022</i>
 <br>
 \[<a href="https://arxiv.org/abs/2202.01906">preprint</a>\]
 
@@ -32,9 +32,9 @@ Select Publications
 <br>
 Agata Foryciarz, <b>Stephen R. Pfohl</b>, Birju Patel, Nigam H. Shah
 <br>
-<i>medRxiv 2021.11.08.21266076; doi: https://doi.org/10.1101/2021.11.08.21266076</i>
+<i>BMJ Health & Care Informatics 29, e100460</i>
 <br>
-\[<a href="https://www.medrxiv.org/content/10.1101/2021.11.08.21266076v2">preprint</a>\]
+\[<a href="https://www.medrxiv.org/content/10.1101/2021.11.08.21266076v2">preprint</a>\] \[<a href="https://informatics.bmj.com/content/29/1/e100460">paper</a>\]
 
 <a href="https://www.nature.com/articles/s41598-022-07167-7">A comparison of approaches to improve worst-case predictive model performance over patient subpopulations</a>
 <br>
