@@ -19,7 +19,7 @@ Select Publications
 <br>
 <i>ACM Conference on Fairness Accountability and Transparency (FAccT) 2022</i>
 <br>
-\[<a href="https://arxiv.org/abs/2202.01906">preprint</a>\]
+\[<a href="https://arxiv.org/abs/2202.01906">preprint</a>\] \[<a href="https://dl.acm.org/doi/abs/10.1145/3531146.3533166">paper</a>\] \[<a href="https://spfohl.github.io/files/pfohl_net_benefit_combined.pdf">pdf</a>\]
 
 
 <a href="https://searchworks.stanford.edu/view/14051829">Recommendations for algorithmic fairness assessments of predictive models in healthcare: evidence from large-scale empirical analyses</a>
