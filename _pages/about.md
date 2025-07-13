@@ -15,7 +15,9 @@ For a complete list of publications, see my <a href="https://scholar.google.com/
 Select Publications  
 ===
 
-<a href="https://arxiv.org/abs/2506.04193">Understanding challenges to the interpretation of disaggregated evaluations of algorithmic fairness</a><b>Stephen R. Pfohl</b>, Natalie Harris, Chirag Nagpal, David Madras, Vishwali Mhasawade, Olawale Salaudeen, Awa Dieng, Shannon Sequeira, Santiago Arciniegas, Lillian Sung, Nnamdi Ezeanochie, Heather Cole-Lewis, Katherine Heller, Sanmi Koyejo, Alexander D'Amour
+<a href="https://arxiv.org/abs/2506.04193">Understanding challenges to the interpretation of disaggregated evaluations of algorithmic fairness</a>
+<br>
+<b>Stephen R. Pfohl</b>, Natalie Harris, Chirag Nagpal, David Madras, Vishwali Mhasawade, Olawale Salaudeen, Awa Dieng, Shannon Sequeira, Santiago Arciniegas, Lillian Sung, Nnamdi Ezeanochie, Heather Cole-Lewis, Katherine Heller, Sanmi Koyejo, Alexander D'Amour
 <br>
 <i>arXiv preprint (2025)</i>
 <br>
