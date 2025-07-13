@@ -15,6 +15,13 @@ For a complete list of publications, see my <a href="https://scholar.google.com/
 Select Publications  
 ===
 
+<a href="https://arxiv.org/abs/2506.04193">Understanding challenges to the interpretation of disaggregated evaluations of algorithmic fairness</a><b>Stephen R. Pfohl</b>, Natalie Harris, Chirag Nagpal, David Madras, Vishwali Mhasawade, Olawale Salaudeen, Awa Dieng, Shannon Sequeira, Santiago Arciniegas, Lillian Sung, Nnamdi Ezeanochie, Heather Cole-Lewis, Katherine Heller, Sanmi Koyejo, Alexander D'Amour
+<br>
+<i>arXiv preprint (2025)</i>
+<br>
+\[<a href="https://arxiv.org/abs/2506.04193">paper</a>\] \[<a href="https://arxiv.org/pdf/2506.04193">pdf</a>\]
+
+
 <a href="https://www.nature.com/articles/s41591-024-03258-2">A toolbox for surfacing health equity harms and biases in large language models</a>
 <br>
 <b>Stephen R. Pfohl</b>\*, Heather Cole-Lewis\*, Rory Sayres, Darlene Neal, Mercy Asiedu, Awa Dieng, Nenad Tomasev, Qazi Mamunur Rashid, Shekoofeh Azizi, Negar Rostamzadeh, Liam G. McCoy, Leo Anthony Celi, Yun Liu, Mike Schaekermann, Alanna Walton, Alicia Parrish, Chirag Nagpal, Preeti Singh, Akeiylah Dewitt, Philip Mansfield, Sushant Prakash, Katherine Heller, Alan Karthikesalingam, Christopher Semturs, Joelle Barral, Greg Corrado, Yossi Matias, Jamila Smith-Loud, Ivor Horn, Karan Singhal
